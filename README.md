@@ -1,7 +1,7 @@
 # GIT
 Basic commands of GIT </br>  
 **git init:** Initializes a new Git repository in the current directory.  
-**git status:** Shows the status of changes as untracked, modified, or staged.
+**git status:** Shows the status of changes as untracked, modified, or staged.  
 **git add:** Stages changes for commit. You need to specify files or use . to add all changes.  
 **git rm --cached file_name:** Unstages a file (removes it from the staging area).  
 **git rm -f file_name:** Removes a file from both the working directory and the staging area.  
