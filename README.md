@@ -31,3 +31,8 @@ The following commands are related to working with remotes:</br>
 **git push -u origin b_name:** Pushes the branch to the remote and sets it as the upstream branch.  
 **git push origin b_name:** Pushes the branch to the remote.  
 **git push origin --delete b_name:** Deletes the specified branch on the remote.  
+
+# Basic points to remember  
+**Fork**: Create copy of others repository in our account.  
+**Clone**: Download the repository. 
+**While creating repository add "MIT" License (free)**: Resticts other users to download the repository.
