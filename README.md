@@ -13,7 +13,7 @@ Basic commands of GIT </br>
 **git reset --mixed "id":** Resets the staging area to the specified commit.  
 **git reset --soft "id":** Resets the staging area and the commit, keeping changes in the working directory.  
 
-The following commands are related to branches:  
+The following commands are related to branches: </br>   
 **touch .gitignore:** Creates a file to specify files and directories that should be ignored by Git.  
 **git checkout -b branch_name:** Creates a new branch and switches to it.  
 **git branch b_name:** Creates a new branch without switching to it.   
@@ -21,8 +21,9 @@ The following commands are related to branches:
 **git checkout master:** Switches to the master branch.  
 **git checkout b_name:** Switches to the specified branch.  
 **git branch -d b_name:** Deletes the specified branch.  
-**git merge b_name:** Merges the specified branch into the current branch.  
-The following commands are related to working with remotes:  
+**git merge b_name:** Merges the specified branch into the current branch.</br>   
+
+The following commands are related to working with remotes:</br>  
 
 **git remote add origin https………..:** Adds a remote named "origin" with the specified URL.  
 **git remote -v:** Shows the URLs of remotes.  
