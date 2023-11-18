@@ -1,5 +1,5 @@
 # GIT
-Basic commands of GIT /br
+Basic commands of GIT </br>
 **git init:** Initializes a new Git repository in the current directory.
 **git status:** Shows the status of changes as untracked, modified, or staged.
 **git add:** Stages changes for commit. You need to specify files or use . to add all changes.
