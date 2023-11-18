@@ -34,5 +34,5 @@ The following commands are related to working with remotes:</br>
 
 # Basic points to remember  
 **Fork**: Create copy of others repository in our account.  
-**Clone**: Download the repository. 
+**Clone**: Download the repository.  
 **While creating repository add "MIT" License (free)**: Resticts other users to download the repository.
